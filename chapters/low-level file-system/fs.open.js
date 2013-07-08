@@ -1,0 +1,1 @@
+var fs = require('fs');fs.open('/path/to/file', 'r', function(err, fd) {  // got fd});
