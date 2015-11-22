@@ -1,3 +1,5 @@
+console.log('HTTP Server Exercise 1 14/7/2013 v0');
+
 var path = require('path'),
     fs   = require('fs');
 

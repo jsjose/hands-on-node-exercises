@@ -1,3 +1,5 @@
+console.log('Emitter Exercise 1 29/6/2013 v0');
+
 var EventEmitter = require('events').EventEmitter,
     util         = require('util'),
     sec          = new Date();

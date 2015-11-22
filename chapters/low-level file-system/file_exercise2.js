@@ -1,3 +1,5 @@
+console.log('File Exercise 2 2/7/2013 v0');
+
 var fs = require('fs');
 fs.open('1.txt', 'r', function(err, fd) {
    if (err) { throw err }

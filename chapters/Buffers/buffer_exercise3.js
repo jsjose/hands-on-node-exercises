@@ -1,3 +1,5 @@
+console.log('Buffer Exercise 3 27/6/2013 v0');
+
 var buffer = new Buffer(100);
 var i;
 

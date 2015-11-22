@@ -1,3 +1,5 @@
+console.log('File Exercise 1 2/7/2013 v0');
+
 var fs = require('fs');
 var descriptor;
 

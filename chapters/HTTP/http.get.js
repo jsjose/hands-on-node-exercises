@@ -2,8 +2,9 @@
  
  var options = {
    host: 'localhost',
-   port: 80,
-   path: '/index.html'
+   port: 4000,
+   path: '/'
+  // path: '/index.html'
  };
  
  http.get(options, function(res) {
